@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libutil.a CMakeFiles/util.dir/src/compare.cpp.o
+/usr/bin/llvm-ranlib libutil.a

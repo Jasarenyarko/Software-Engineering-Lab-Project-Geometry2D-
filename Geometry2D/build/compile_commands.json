@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/workspaces/sel-homework_9/build",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -o CMakeFiles/geometry2d_google_tests_exe.dir/test/point_test.cpp.o -c /workspaces/sel-homework_9/test/point_test.cpp",
+  "file": "/workspaces/sel-homework_9/test/point_test.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -o CMakeFiles/geometry2d_google_tests_exe.dir/test/line_test.cpp.o -c /workspaces/sel-homework_9/test/line_test.cpp",
+  "file": "/workspaces/sel-homework_9/test/line_test.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -o CMakeFiles/geometry2d_google_tests_exe.dir/test/compare_test.cpp.o -c /workspaces/sel-homework_9/test/compare_test.cpp",
+  "file": "/workspaces/sel-homework_9/test/compare_test.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -o CMakeFiles/geometry2d_google_tests_exe.dir/test/geo_compare_test.cpp.o -c /workspaces/sel-homework_9/test/geo_compare_test.cpp",
+  "file": "/workspaces/sel-homework_9/test/geo_compare_test.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -o CMakeFiles/geometry2d_google_tests_exe.dir/test/angle_test.cpp.o -c /workspaces/sel-homework_9/test/angle_test.cpp",
+  "file": "/workspaces/sel-homework_9/test/angle_test.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -o CMakeFiles/geometry2d_google_tests_exe.dir/test/pose_test.cpp.o -c /workspaces/sel-homework_9/test/pose_test.cpp",
+  "file": "/workspaces/sel-homework_9/test/pose_test.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/build/_deps/googletest-src/googlemock/include -I/workspaces/sel-homework_9/build/_deps/googletest-src/googlemock -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /workspaces/sel-homework_9/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/workspaces/sel-homework_9/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googlemock/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googlemock -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /workspaces/sel-homework_9/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/workspaces/sel-homework_9/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -I/workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/workspaces/sel-homework_9/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/include -isystem /workspaces/sel-homework_9/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /workspaces/sel-homework_9/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/workspaces/sel-homework_9/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/util",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/util/include -g -o CMakeFiles/util.dir/src/compare.cpp.o -c /workspaces/sel-homework_9/util/src/compare.cpp",
+  "file": "/workspaces/sel-homework_9/util/src/compare.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/geometry2d",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -g -o CMakeFiles/geometry2D.dir/src/angle.cpp.o -c /workspaces/sel-homework_9/geometry2d/src/angle.cpp",
+  "file": "/workspaces/sel-homework_9/geometry2d/src/angle.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/geometry2d",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -g -o CMakeFiles/geometry2D.dir/src/geo_compare.cpp.o -c /workspaces/sel-homework_9/geometry2d/src/geo_compare.cpp",
+  "file": "/workspaces/sel-homework_9/geometry2d/src/geo_compare.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/geometry2d",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -g -o CMakeFiles/geometry2D.dir/src/line.cpp.o -c /workspaces/sel-homework_9/geometry2d/src/line.cpp",
+  "file": "/workspaces/sel-homework_9/geometry2d/src/line.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/geometry2d",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -g -o CMakeFiles/geometry2D.dir/src/point.cpp.o -c /workspaces/sel-homework_9/geometry2d/src/point.cpp",
+  "file": "/workspaces/sel-homework_9/geometry2d/src/point.cpp"
+},
+{
+  "directory": "/workspaces/sel-homework_9/build/geometry2d",
+  "command": "/usr/bin/clang++  -I/workspaces/sel-homework_9/geometry2d/include -I/workspaces/sel-homework_9/util/include -g -o CMakeFiles/geometry2D.dir/src/pose.cpp.o -c /workspaces/sel-homework_9/geometry2d/src/pose.cpp",
+  "file": "/workspaces/sel-homework_9/geometry2d/src/pose.cpp"
+}
+]

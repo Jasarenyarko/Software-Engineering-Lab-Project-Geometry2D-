@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libgeometry2D.a CMakeFiles/geometry2D.dir/src/angle.cpp.o CMakeFiles/geometry2D.dir/src/geo_compare.cpp.o CMakeFiles/geometry2D.dir/src/line.cpp.o CMakeFiles/geometry2D.dir/src/point.cpp.o CMakeFiles/geometry2D.dir/src/pose.cpp.o
+/usr/bin/llvm-ranlib libgeometry2D.a
